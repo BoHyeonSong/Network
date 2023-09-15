@@ -1,0 +1,8 @@
+# 윈속 초기화
+
+```
+int WSAStartup(
+  WORD wVersionRequested,
+  LPWSADATA lpWSAData
+);
+```
